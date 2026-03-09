@@ -22,6 +22,14 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=The-Morpho&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="100%"/>
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -40,11 +48,7 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=The-Morpho&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="60%"/>
-</div>
 
 ---
 
