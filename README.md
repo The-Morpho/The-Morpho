@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Morpho&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=The-Morpho&theme=radical&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
@@ -30,9 +30,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Morpho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4e9af1&icon_color=9d7ee8&text_color=8b949e" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Morpho&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4e9af1&icon_color=9d7ee8&text_color=8b949e&cache_seconds=86400&v=2" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Morpho&layout=compact&hide_border=true&bg_color=0d1117&title_color=4e9af1&text_color=8b949e&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Morpho&layout=compact&hide_border=true&bg_color=0d1117&title_color=4e9af1&text_color=8b949e&langs_count=8&cache_seconds=86400&v=2" height="180" alt="Top Languages"/>
 </div>
 
 ---
@@ -56,9 +56,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,django,js,ts,html,css,cs,dotnet,mongodb,postgres,mysql,git,docker,linux&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,ts,html,css,cs,dotnet,mongodb,postgres,mysql,git,docker,linux&perline=8" alt="Tech Stack"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" width="48" alt="Oracle" title="Oracle"/>
 </div>
 
 ---
