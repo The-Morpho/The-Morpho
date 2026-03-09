@@ -48,10 +48,6 @@
 
 ---
 
-
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
