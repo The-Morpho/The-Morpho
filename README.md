@@ -60,8 +60,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,ts,html,css,cs,dotnet,mongodb,postgres,mysql,git,docker,linux&perline=8" alt="Tech Stack"/>
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="48" width="48" alt="Oracle" title="Oracle"/>
 </div>
 
 ---
