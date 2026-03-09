@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=NASSER%20WALID&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Building%20Cool%20Stuff&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=NASSER%20WALID&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Cool%20Stuff&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Spring+Boot+%7C+Django+%7C+Backend+Dev;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Spring+Boot+%7C+Django+%7C+Full+Stack+Dev;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
@@ -23,7 +23,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Morpho&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=The-Morpho&theme=onedark&no-frame=true&no-bg=false&column=6&margin-w=8&margin-h=8" alt="Trophies" width="100%"/>
 </div>
 
 ---
@@ -31,9 +31,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Morpho&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Morpho&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Morpho&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Morpho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 ---
@@ -97,7 +97,7 @@
     <tr>
       <td>🌱</td>
       <td><b>Learning</b></td>
-      <td>Spring Boot, Django & Modern Backend Dev</td>
+      <td>Spring Boot, Django & Modern Full Stack Dev</td>
     </tr>
     <tr>
       <td>🎯</td>
@@ -128,8 +128,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/The-Morpho/The-Morpho/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-> 💡 *The snake animation requires a GitHub Action — see setup instructions below.*
 
 ---
 
