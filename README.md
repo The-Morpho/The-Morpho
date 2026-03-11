@@ -32,9 +32,11 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Morpho&theme=radical&no-frame=true&column=6&margin-w=10" alt="Trophies"/>
-</div>
+p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=djgang013&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
