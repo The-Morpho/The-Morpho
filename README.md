@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Trophies
 
-p align="center">
+<p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img src="https://github-trophies.vercel.app/?username=djgang013&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
